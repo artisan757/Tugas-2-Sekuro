@@ -1,6 +1,9 @@
 #include <iostream >
 using namespace std;
 
+//Nama : Rizky Anggian Matondang
+//NIM : 16720470
+
 int main () {
     int N, i; //Inisiasi variabel
     float A, B, C; //Inisiasi variabel
