@@ -1,6 +1,8 @@
 #include <iostream >
 #include <cmath>
 using namespace std;
+//Nama : Rizky Anggian Matondang
+//NIM : 16720470
 
 // Definisi Fungsi Yang Akan Diintegralkan (x^3 + x + 1)
 double f (double x){
